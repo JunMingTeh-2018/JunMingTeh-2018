@@ -8,8 +8,11 @@ An undergraduate student 👨‍🎓 currently pursuing an 𝗜𝗻𝗳𝗼𝗿�
 
 ### CONNECT WITH ME! 👥 :
 
-[<img align="left" alt="Jun Ming Teh (Bryan) | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
-[<img align="left" alt="Jun Ming Teh (Bryan) | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
+[<img align="left" alt="Jun Ming Teh (Bryan) | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][LinkedIn]
+
+[<img align="left" alt="Jun Ming Teh (Bryan) | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>][GitHub]
+
+[<img align="left" alt="Jun Ming Teh (Bryan) | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][Website]
 
 <br/>
 
@@ -17,28 +20,26 @@ An undergraduate student 👨‍🎓 currently pursuing an 𝗜𝗻𝗳𝗼𝗿�
 
 ### LANGUAGES 👨‍💻 & TOOLS 🛠️ :
 
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][Java]
+[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/285d19f261b6d469fd8a309dddb234371d7be462/topics/java/java.png"/>][Java]
 
-[<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][Android]
+[<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/285d19f261b6d469fd8a309dddb234371d7be462/topics/android/android.png"/>][Android]
 
-[<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />][Firebase]
+[<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/285d19f261b6d469fd8a309dddb234371d7be462/topics/firebase/firebase.png"/>][Firebase]
 
-[<img align="left" alt="Visual Basic.NET" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-basic/visual-basic.png" />][VisualBasic.NET]
+[<img align="left" alt="Visual Basic.NET" width="26px" src="https://raw.githubusercontent.com/github/explore/285d19f261b6d469fd8a309dddb234371d7be462/topics/visual-basic/visual-basic.png"/>][VisualBasic.NET]
 
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][SQL]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/285d19f261b6d469fd8a309dddb234371d7be462/topics/sql/sql.png"/>][SQL]
 
-[<img align="left" alt="Database" width="26px" src="https://raw.githubusercontent.com/github/explore/285d19f261b6d469fd8a309dddb234371d7be462/topics/database/database.png" />][Database]
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VisualStudioCode]
+[<img align="left" alt="Database" width="26px" src="https://raw.githubusercontent.com/github/explore/285d19f261b6d469fd8a309dddb234371d7be462/topics/database/database.png"/>][Database]
 
 
 [UKM]: https://www.ukm.my/portal/
 [LinkedIn]: https://www.linkedin.com/in/jun-ming-teh/
-[Facebook]: https://www.facebook.com/JunMing.2018/
+[GitHub]: https://github.com/JunMingTeh-2018
+[Website]: https://junming2018.wixsite.com/jun-ming-teh
 [Java]: https://github.com/topics/java
 [Android]: https://github.com/topics/android
 [Firebase]: https://github.com/topics/firebase
 [VisualBasic.NET]: https://docs.microsoft.com/en-us/dotnet/visual-basic/
 [SQL]: https://github.com/topics/sql
 [Database]: https://github.com/topics/database
-[VisualStudioCode]: https://code.visualstudio.com/docs
