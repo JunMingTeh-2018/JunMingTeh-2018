@@ -1,25 +1,33 @@
-## Hi there, I'm [Jun Ming - aka Bryan][linkedin] 👋
+# Hi there, I'm [Jun Ming - aka Bryan][linkedin] 👋
 
 ### ABOUT
 
 An undergraduate student 👨‍🎓 currently pursuing an 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆 Degree 🖥️ , 𝗕𝗜𝗧 (𝗛𝗼𝗻𝘀.) 🎓 at [The National University of Malaysia (𝗨𝗞𝗠)][UKM] 🏫.
 
-### CONNECT WITH ME! 👥 :
+## CONNECT WITH ME! 👥 :
 
-[<img align="left" alt="Jun Ming Teh (Bryan) | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Jun Ming Teh (Bryan) | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Jun Ming Teh (Bryan) | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+[<img align="left" alt="Jun Ming Teh (Bryan) | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
 
 <br/>
 
-### LANGUAGES 👨‍💻 & TOOLS 🛠️ :
+## LANGUAGES 👨‍💻 & TOOLS 🛠️ :
 
-[<img java="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />]
-[<img android="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />]
-[<img firebase="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />]
-[<img visualBasic.net="left" alt="Visual Basic .NET" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-basic/visual-basic.png" />]
-[<img sql="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
-[<img visualStudioCode="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+[<img java="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][Java]
+[<img android="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][Android]
+[<img firebase="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />][Firebase]
+[<img visualBasic.net="left" alt="Visual Basic.NET" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-basic/visual-basic.png" />][VisualBasic.NET]
+[<img sql="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][SQL]
+[<img database="left" alt="Database" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/database/database.png" />][Database]
+[<img visualStudioCode="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VisualStudioCode]
 
 [UKM]: https://www.ukm.my/portal/
-[linkedin]: https://www.linkedin.com/in/jun-ming-teh/
-[facebook]: https://www.facebook.com/JunMing.2018/
+[LinkedIn]: https://www.linkedin.com/in/jun-ming-teh/
+[Facebook]: https://www.facebook.com/JunMing.2018/
+[Java]: https://github.com/topics/java
+[Android]: https://github.com/topics/android
+[Firebase]: https://github.com/topics/firebase
+[VisualBasic.NET]: https://docs.microsoft.com/en-us/dotnet/visual-basic/
+[SQL]: https://github.com/topics/sql
+[Database]: https://github.com/topics/database
+[VisualStudioCode]: https://code.visualstudio.com/docs
