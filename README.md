@@ -1,4 +1,4 @@
-## Hi there, I'm [Jun Ming - aka Bryan][linkedin] 👋
+# Hi there, I'm [Jun Ming - aka Bryan][linkedin] 👋
 
 ### ABOUT
 
