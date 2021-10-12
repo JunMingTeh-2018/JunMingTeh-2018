@@ -11,6 +11,8 @@ An undergraduate student 👨‍🎓 currently pursuing an 𝗜𝗻𝗳𝗼𝗿�
 [<img align="left" alt="Jun Ming Teh (Bryan) | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" alt="Jun Ming Teh (Bryan) | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
 
+<br/>
+
 ---
 
 ### LANGUAGES 👨‍💻 & TOOLS 🛠️ :
