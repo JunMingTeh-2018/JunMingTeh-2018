@@ -1,12 +1,12 @@
 # Hi there, I'm [Jun Ming - aka Bryan][linkedin] 👋
 
-### ABOUT
+### ABOUT ME 🙋‍♂️
 
 An undergraduate student 👨‍🎓 currently pursuing an 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆 Degree 🖥️ , 𝗕𝗜𝗧 (𝗛𝗼𝗻𝘀.) 🎓 at [The National University of Malaysia (𝗨𝗞𝗠)][UKM] 🏫.
 
 ---
 
-### CONNECT WITH ME! 👥 :
+### LET'S CONNECT! 👥 :
 
 [<img align="left" alt="Jun Ming Teh (Bryan) | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][LinkedIn]
 
