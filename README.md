@@ -26,8 +26,6 @@ An undergraduate student 👨‍🎓 currently pursuing an 𝗜𝗻𝗳𝗼𝗿�
 
 [<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/285d19f261b6d469fd8a309dddb234371d7be462/topics/firebase/firebase.png"/>][Firebase]
 
-[<img align="left" alt="Visual Basic.NET" width="26px" src="https://raw.githubusercontent.com/github/explore/285d19f261b6d469fd8a309dddb234371d7be462/topics/visual-basic/visual-basic.png"/>][VisualBasic.NET]
-
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/285d19f261b6d469fd8a309dddb234371d7be462/topics/sql/sql.png"/>][SQL]
 
 [<img align="left" alt="Database" width="26px" src="https://raw.githubusercontent.com/github/explore/285d19f261b6d469fd8a309dddb234371d7be462/topics/database/database.png"/>][Database]
@@ -40,6 +38,5 @@ An undergraduate student 👨‍🎓 currently pursuing an 𝗜𝗻𝗳𝗼𝗿�
 [Java]: https://github.com/topics/java
 [Android]: https://github.com/topics/android
 [Firebase]: https://github.com/topics/firebase
-[VisualBasic.NET]: https://docs.microsoft.com/en-us/dotnet/visual-basic/
 [SQL]: https://github.com/topics/sql
 [Database]: https://github.com/topics/database
