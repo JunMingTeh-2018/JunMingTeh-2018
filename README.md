@@ -1,4 +1,4 @@
-# Hi there, I'm [Jun Ming - aka Bryan](https://www.linkedin.com/in/jun-ming-teh/){:target="_blank"} 👋
+# Hi there, I'm <a href="https://www.linkedin.com/in/jun-ming-teh/" target="_blank">Jun Ming - aka Bryan</a> 👋
 
 ### ABOUT ME 🙋‍♂️
 
