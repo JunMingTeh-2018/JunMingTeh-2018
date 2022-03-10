@@ -24,19 +24,22 @@ An undergraduate student 👨‍🎓 currently pursuing an 𝗜𝗻𝗳𝗼𝗿�
 
 [<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/285d19f261b6d469fd8a309dddb234371d7be462/topics/android/android.png"/>][Android]
 
-[<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/285d19f261b6d469fd8a309dddb234371d7be462/topics/firebase/firebase.png"/>][Firebase]
+[<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>][HTML]
 
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/285d19f261b6d469fd8a309dddb234371d7be462/topics/sql/sql.png"/>][SQL]
+[<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>][CSS]
 
-[<img align="left" alt="Database" width="26px" src="https://raw.githubusercontent.com/github/explore/285d19f261b6d469fd8a309dddb234371d7be462/topics/database/database.png"/>][Database]
+[<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"/>][PHP]
+
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>][MySQL]
 
 
-[UKM]: https://www.ukm.my/portal/
 [LinkedIn]: https://www.linkedin.com/in/jun-ming-teh/
+[UKM]: https://www.ukm.my/portal/
 [GitHub]: https://github.com/JunMingTeh-2018
 [Website]: https://junming2018.wixsite.com/jun-ming-teh
 [Java]: https://github.com/topics/java
 [Android]: https://github.com/topics/android
-[Firebase]: https://github.com/topics/firebase
-[SQL]: https://github.com/topics/sql
-[Database]: https://github.com/topics/database
+[HTML]: https://github.com/topics/html
+[CSS]: https://github.com/topics/css
+[PHP]: https://github.com/topics/php
+[MySQL]: https://github.com/topics/mysql
