@@ -38,6 +38,8 @@ An undergraduate student 👨‍🎓 currently pursuing an 𝗜𝗻𝗳𝗼𝗿�
 
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>][Git]
 
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"/>][Unity]
+
 
 [LinkedIn]: https://www.linkedin.com/in/jun-ming-teh/
 [UKM]: https://www.ukm.my/portal/
@@ -53,3 +55,4 @@ An undergraduate student 👨‍🎓 currently pursuing an 𝗜𝗻𝗳𝗼𝗿�
 [MySQL]: https://github.com/topics/mysql
 [Firebase]: https://github.com/topics/firebase
 [Git]: https://github.com/topics/git
+[Unity]: https://github.com/topics/unity
