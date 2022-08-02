@@ -12,6 +12,8 @@ An undergraduate student 👨‍🎓 currently pursuing an 𝗜𝗻𝗳𝗼𝗿�
 
 [<img align="left" alt="Jun Ming Teh (Bryan) | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>][GitHub]
 
+[<img align="left" alt="Jun Ming Teh (Bryan) | Website" width="22px" src="https://cdn-icons-png.flaticon.com/512/54/54560.png"/>][Website]
+
 <br/>
 
 ---
@@ -40,11 +42,10 @@ An undergraduate student 👨‍🎓 currently pursuing an 𝗜𝗻𝗳𝗼𝗿�
 
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"/>][Unity]
 
-
-[LinkedIn]: https://www.linkedin.com/in/jun-ming-teh/
-[UKM]: https://www.ukm.my/portal/
+[LinkedIn]: https://www.linkedin.com/in/jun-ming-teh
+[UKM]: https://www.ukm.my/portal
 [GitHub]: https://github.com/JunMingTeh-2018
-[Website]: https://junming2018.wixsite.com/jun-ming-teh
+[Website]: https://junmingteh-2018.github.io/JunMingTeh-Portfolio
 [Java]: https://github.com/topics/java
 [Android]: https://github.com/topics/android
 [XML]: https://github.com/topics/xml
