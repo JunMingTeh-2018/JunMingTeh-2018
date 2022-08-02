@@ -8,11 +8,11 @@ An undergraduate student 👨‍🎓 currently pursuing an 𝗜𝗻𝗳𝗼𝗿�
 
 ### LET'S CONNECT! 👥 :
 
-[<img align="left" alt="Jun Ming Teh (Bryan) | LinkedIn" width="22px" src="icons/linkedin.svg"/>][LinkedIn]
+[<img align="left" alt="LinkedIn" width="22px" src="icons/linkedin.svg"/>][LinkedIn]
 
-[<img align="left" alt="Jun Ming Teh (Bryan) | Website" width="22px" src="icons/portfolio.png"/>][Website]
+[<img align="left" alt="Portfolio" width="22px" src="icons/portfolio.png"/>][Portfolio]
 
-[<img align="left" alt="Jun Ming Teh (Bryan) | Email" width="22px" src="icons/gmail.svg"/>][Email]
+[<img align="left" alt="Email" width="22px" src="icons/gmail.svg"/>][Email]
 
 <br/>
 
@@ -44,7 +44,7 @@ An undergraduate student 👨‍🎓 currently pursuing an 𝗜𝗻𝗳𝗼𝗿�
 
 [LinkedIn]: https://www.linkedin.com/in/jun-ming-teh
 [UKM]: https://www.ukm.my/portal
-[Website]: https://junmingteh-2018.github.io/JunMingTeh-Portfolio
+[Portfolio]: https://junmingteh-2018.github.io/JunMingTeh-Portfolio
 [Email]: mailto:ming58399@gmail.com
 [Java]: https://github.com/topics/java
 [Android]: https://github.com/topics/android
