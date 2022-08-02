@@ -8,11 +8,11 @@ An undergraduate student 👨‍🎓 currently pursuing an 𝗜𝗻𝗳𝗼𝗿�
 
 ### LET'S CONNECT! 👥 :
 
-[<img align="left" alt="Jun Ming Teh (Bryan) | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][LinkedIn]
+[<img align="left" alt="Jun Ming Teh (Bryan) | LinkedIn" width="22px" src="icons/linkedin.svg"/>][LinkedIn]
 
-[<img align="left" alt="Jun Ming Teh (Bryan) | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>][GitHub]
+[<img align="left" alt="Jun Ming Teh (Bryan) | Website" width="22px" src="icons/portfolio.png"/>][Website]
 
-[<img align="left" alt="Jun Ming Teh (Bryan) | Website" width="22px" src="https://cdn-icons-png.flaticon.com/512/54/54560.png"/>][Website]
+[<img align="left" alt="Jun Ming Teh (Bryan) | Email" width="22px" src="icons/gmail.svg"/>][Email]
 
 <br/>
 
@@ -20,7 +20,7 @@ An undergraduate student 👨‍🎓 currently pursuing an 𝗜𝗻𝗳𝗼𝗿�
 
 ### LANGUAGES 👨‍💻 & TOOLS 🛠️ :
 
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/285d19f261b6d469fd8a309dddb234371d7be462/topics/java/java.png"/>][Java]
+[<img align="left" alt="Java" width="26px" src="icons/java.png"/>][Java]
 
 [<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/285d19f261b6d469fd8a309dddb234371d7be462/topics/android/android.png"/>][Android]
 
@@ -28,24 +28,24 @@ An undergraduate student 👨‍🎓 currently pursuing an 𝗜𝗻𝗳𝗼𝗿�
 
 [<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>][HTML]
 
-[<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>][CSS]
+[<img align="left" alt="CSS" width="26px" src="icons/css.png"/>][CSS]
 
-[<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>][JavaScript]
+[<img align="left" alt="CSS" width="26px" src="icons/javascript.png"/>][JavaScript]
 
 [<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"/>][PHP]
 
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>][MySQL]
+[<img align="left" alt="MySQL" width="26px" src="icons/mysql.png"/>][MySQL]
 
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"/>][Firebase]
+[<img align="left" alt="MySQL" width="26px" src="icons/firebase.png"/>][Firebase]
 
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>][Git]
+[<img align="left" alt="MySQL" width="26px" src="icons/git.png"/>][Git]
 
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"/>][Unity]
+[<img align="left" alt="MySQL" width="26px" src="icons/unity.png"/>][Unity]
 
 [LinkedIn]: https://www.linkedin.com/in/jun-ming-teh
 [UKM]: https://www.ukm.my/portal
-[GitHub]: https://github.com/JunMingTeh-2018
 [Website]: https://junmingteh-2018.github.io/JunMingTeh-Portfolio
+[Email]: mailto:ming58399@gmail.com
 [Java]: https://github.com/topics/java
 [Android]: https://github.com/topics/android
 [XML]: https://github.com/topics/xml
