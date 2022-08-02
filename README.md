@@ -8,11 +8,11 @@ An undergraduate student 👨‍🎓 currently pursuing an 𝗜𝗻𝗳𝗼𝗿�
 
 ### LET'S CONNECT! 👥 :
 
-[<img align="left" alt="Jun Ming Teh (Bryan) | LinkedIn" width="22px" src="icons/linkedin.svg"/>][LinkedIn]
+[<img align="left" alt="Jun Ming Teh (Bryan) | LinkedIn" width="22px" src="/icons/linkedin.svg"/>][LinkedIn]
 
-[<img align="left" alt="Jun Ming Teh (Bryan) | Website" width="22px" src="icons/portfolio.png"/>][Website]
+[<img align="left" alt="Jun Ming Teh (Bryan) | Website" width="22px" src="/icons/portfolio.png"/>][Website]
 
-[<img align="left" alt="Jun Ming Teh (Bryan) | Email" width="22px" src="icons/gmail.svg"/>][Email]
+[<img align="left" alt="Jun Ming Teh (Bryan) | Email" width="22px" src="/icons/gmail.svg"/>][Email]
 
 <br/>
 
