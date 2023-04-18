@@ -22,6 +22,10 @@ An undergraduate student 👨‍🎓 currently pursuing an 𝗜𝗻𝗳𝗼𝗿�
 
 [<img align="left" alt="Java" width="26px" src="icons/java.png"/>][Java]
 
+[<img align="left" alt="Vue.js" width="26px" src="icons/vuejs.png"/>][Vue.js]
+
+[<img align="left" alt="Laravel" width="26px" src="icons/laravel.png"/>][Laravel]
+
 [<img align="left" alt="Android" width="26px" src="icons/android.png"/>][Android]
 
 [<img align="left" alt="XML" width="26px" src="icons/xml.png"/>][XML]
@@ -40,6 +44,8 @@ An undergraduate student 👨‍🎓 currently pursuing an 𝗜𝗻𝗳𝗼𝗿�
 
 [<img align="left" alt="Git" width="26px" src="icons/git.png"/>][Git]
 
+[<img align="left" alt="AWS" width="26px" src="icons/aws.png"/>][AWS]
+
 [<img align="left" alt="Unity" width="26px" src="icons/unity.png"/>][Unity]
 
 [LinkedIn]: https://www.linkedin.com/in/jun-ming-teh
@@ -47,6 +53,8 @@ An undergraduate student 👨‍🎓 currently pursuing an 𝗜𝗻𝗳𝗼𝗿�
 [Portfolio]: https://junmingteh-2018.github.io/JunMingTeh-Portfolio
 [Email]: mailto:ming58399@gmail.com
 [Java]: https://github.com/topics/java
+[Vue.js]: https://github.com/topics/vue
+[Laravel]: https://github.com/topics/laravel
 [Android]: https://github.com/topics/android
 [XML]: https://github.com/topics/xml
 [HTML]: https://github.com/topics/html
@@ -56,4 +64,5 @@ An undergraduate student 👨‍🎓 currently pursuing an 𝗜𝗻𝗳𝗼𝗿�
 [MySQL]: https://github.com/topics/mysql
 [Firebase]: https://github.com/topics/firebase
 [Git]: https://github.com/topics/git
+[AWS]: https://github.com/topics/aws
 [Unity]: https://github.com/topics/unity
