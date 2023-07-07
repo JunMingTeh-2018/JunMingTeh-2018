@@ -2,7 +2,7 @@
 
 ### ABOUT ME 🙋‍♂️
 
-An undergraduate student 👨‍🎓 currently pursuing an 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆 Degree 🖥️ , 𝗕𝗜𝗧 (𝗛𝗼𝗻𝘀.) 🎓 at [The National University of Malaysia (𝗨𝗞𝗠)][UKM] 🏫.
+An undergraduate student 👨‍🎓 currently pursuing an 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆 Degree 🖥️, 𝗕𝗜𝗧 (𝗛𝗼𝗻𝘀.) 🎓 at [The National University of Malaysia (𝗨𝗞𝗠)][UKM] 🏫.
 
 ---
 
@@ -50,7 +50,7 @@ An undergraduate student 👨‍🎓 currently pursuing an 𝗜𝗻𝗳𝗼𝗿�
 
 [LinkedIn]: https://www.linkedin.com/in/jun-ming-teh
 [UKM]: https://www.ukm.my/portal
-[Portfolio]: https://junmingteh-2018.github.io/JunMingTeh-Portfolio
+[Portfolio]: https://linktr.ee/junming2018
 [Email]: mailto:ming58399@gmail.com
 [Java]: https://github.com/topics/java
 [Vue.js]: https://github.com/topics/vue
